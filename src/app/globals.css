@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    color: white;
+    -web-font-smoothing: "antialiased";
+}
+
+html {
+    background: linear-gradient(135.99deg, #03000c -14.63%, #020107 108.61%);
+}
+
+
+
+@layer base {}
